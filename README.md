@@ -2,7 +2,7 @@
 
 An interactive dashboard that pulls live posts from any subreddit and analyzes their sentiment in real time, visualizing the results through KPIs, charts, and a word cloud.
 
-project live application - [Clickable Text](https://reddit-sentiment-dashboard-kzcqufqgf6chsra8tjkmew.streamlit.app/)
+[project live application](https://reddit-sentiment-dashboard-kzcqufqgf6chsra8tjkmew.streamlit.app/)
 
 ## What It Does
 
