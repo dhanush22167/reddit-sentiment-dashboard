@@ -2,6 +2,8 @@
 
 An interactive dashboard that pulls live posts from any subreddit and analyzes their sentiment in real time, visualizing the results through KPIs, charts, and a word cloud.
 
+project live application - [Clickable Text](https://reddit-sentiment-dashboard-kzcqufqgf6chsra8tjkmew.streamlit.app/)
+
 ## What It Does
 
 The dashboard answers a simple question for any subreddit: **"what's the overall mood here right now?"** It fetches the current "hot" posts from a chosen subreddit, runs each post's text through a sentiment classification model, and aggregates the results into an at-a-glance view — percentage breakdown, visual charts, common terms, and a browsable feed of individual posts tagged with their detected sentiment.
